@@ -15,6 +15,11 @@ module.exports = {
     filename: packageName+".js",
     publicPath: "/dist"
   },
+  resolve: {
+    alias: {
+      vue: 'vue/dist/vue.js'
+    }
+  },
   module: {
     rules: [
       {

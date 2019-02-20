@@ -1,1 +1,121 @@
 
+h1[data-v-17cc482e] {
+  font-weight: normal;
+  color: #42b983;
+}
+
+#todo-list {
+  margin-bottom: 1rem;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 5px;
+}
+li {
+  padding: 5px 0;
+}
+h3 {
+  margin-bottom: 5px;
+}
+input {
+  border: solid 1px #ccc;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+button[data-v-56e1696a] {
+  background: #ffffff;
+  border: solid 2px #abeaff;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px 0;
+  cursor: pointer;
+}
+button[data-v-56e1696a]:hover {
+  background: #f1f1f1;
+}
+
+.details[data-v-0a3ecefc] {
+  display: flex;
+  text-align: left;
+  justify-content: center;
+}
+.details-editor[data-v-0a3ecefc],
+.details-view[data-v-0a3ecefc] {
+  margin: 0 1rem;
+  padding: 1rem;
+  border: solid 1px #ccc;
+  border-radius: 5px;
+  width: 265px;
+}
+h4[data-v-0a3ecefc] {
+  margin: 0 0 10px 0;
+}
+.details-editor-row[data-v-0a3ecefc] {
+  margin-bottom: 0.5rem;
+}
+label[data-v-0a3ecefc] {
+  display: block;
+}
+input[data-v-0a3ecefc],
+textarea[data-v-0a3ecefc],
+select[data-v-0a3ecefc] {
+  width: 100%;
+  border: solid 1px #ccc;
+  padding: 5px;
+  border-radius: 3px;
+}
+.details-view-bio[data-v-0a3ecefc] {
+  font-size: 85%;
+  margin-top: 2px;
+}
+p[data-v-0a3ecefc] {
+  margin: 33px 0;
+}
+
+.tab-button[data-v-bdda1ea4] {
+  padding: 6px 10px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background: #f0f0f0;
+  margin-bottom: -1px;
+  margin-right: -1px;
+}
+.tab-button[data-v-bdda1ea4]:hover {
+  background: #e0e0e0;
+}
+.tab-button.active[data-v-bdda1ea4] {
+  background: #e0e0e0;
+}
+.tab[data-v-bdda1ea4] {
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: block;
+  max-width: 570px;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #6a6b6d;
+  margin-top: 60px;
+}
+.text-sm {
+  font-size: 10px;
+}
+.mt-2 {
+  margin-top: 2rem;
+}
+
